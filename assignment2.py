@@ -8,4 +8,3 @@ elif Y<Z :
     print("The number closest to 0 is ",Y)
 else :
     print("the number closest to 0 is ",Z)
-print (X+Y)    
