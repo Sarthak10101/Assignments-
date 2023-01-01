@@ -1,4 +1,4 @@
-m,n = (input("Enter two numbers :")).split()
+n,m = (input("Enter two numbers :")).split()
 m = int(m)
 n =int(n)
 if n % 2 ==0 :
